@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="Munazza Zahid, Full-Stack and AI Engineer. I build products from idea to production, then scale them.">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+   <stop offset="0" stop-color="#080A18"/>
+   <stop offset="0.6" stop-color="#0B0D1C"/>
+   <stop offset="1" stop-color="#141027"/>
+  </linearGradient>
+  <radialGradient id="bloom" cx="75%" cy="37%" r="65%">
+   <stop offset="0" stop-color="#7C5CE3" stop-opacity="0.29"/>
+   <stop offset="0.45" stop-color="#48318E" stop-opacity="0.11"/>
+   <stop offset="1" stop-color="#17142D" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+   <stop offset="0" stop-color="#D9CEFF"/>
+   <stop offset="1" stop-color="#957AF0"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+   <stop offset="0" stop-color="#5E4AAB" stop-opacity="0.02"/>
+   <stop offset="0.7" stop-color="#AE94FD" stop-opacity="0.3"/>
+   <stop offset="1" stop-color="#B29EFF" stop-opacity="0.08"/>
+  </linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+   <path d="M48 0H0V48" fill="none" stroke="#A3A8D8" stroke-opacity="0.07" stroke-width="1"/>
+  </pattern>
+  <clipPath id="clip"><rect x="0" y="0" width="1280" height="480" rx="24"/></clipPath>
+ </defs>
+ <g clip-path="url(#clip)">
+  <rect width="1280" height="480" fill="url(#bg)"/>
+  <rect width="1280" height="480" fill="url(#grid)"/>
+  <rect width="1280" height="480" fill="url(#bloom)"/>
+  <path d="M905 -40L1285 360" stroke="#9D89E6" stroke-opacity=".09" stroke-width="1"/>
+  <path d="M985 -40L1365 360" stroke="#9D89E6" stroke-opacity=".07" stroke-width="1"/>
+  <path d="M825 -40L1205 360" stroke="#9D89E6" stroke-opacity=".07" stroke-width="1"/>
+
+  <!-- quiet product-system visual, echoing the portfolio's AI & platform focus -->
+  <g transform="translate(985,210)" opacity=".9">
+   <circle r="138" fill="none" stroke="#AA94F8" stroke-opacity=".12" stroke-width="1"/>
+   <circle r="98" fill="none" stroke="#AA94F8" stroke-opacity=".2" stroke-width="1" stroke-dasharray="3 9"/>
+   <circle r="57" fill="#1F1C3B" fill-opacity=".38" stroke="#AB94FB" stroke-opacity=".35" stroke-width="1"/>
+   <path d="M-140 0H-60M60 0H140M0-140V-60M0 60V140" stroke="#A18BF4" stroke-opacity=".18"/>
+   <g fill="#0F1022" stroke="#C5B4FF" stroke-width="1.2">
+     <rect x="-165" y="-16" width="62" height="32" rx="8"/>
+     <rect x="103" y="-16" width="62" height="32" rx="8"/>
+     <rect x="-31" y="-153" width="62" height="32" rx="8"/>
+     <rect x="-31" y="121" width="62" height="32" rx="8"/>
+   </g>
+   <g font-family="Inter, Arial, sans-serif" font-size="10" fill="#C7BAF5" font-weight="600" text-anchor="middle" letter-spacing="1">
+     <text x="-134" y="4">DATA</text>
+     <text x="134" y="4">SHIP</text>
+     <text x="0" y="-133">BUILD</text>
+     <text x="0" y="141">SCALE</text>
+   </g>
+   <circle r="5" fill="#CAB8FF"/>
+   <path d="M-20 0H20M0-20V20" stroke="#CAB8FF" stroke-opacity=".7"/>
+   <circle cx="-98" cy="0" r="3" fill="#B4A0FF"/>
+   <circle cx="98" cy="0" r="3" fill="#B4A0FF"/>
+  </g>
+
+  <rect x="60" y="43" width="9" height="9" rx="2" fill="#BDAAFF"/>
+  <text x="80" y="52" fill="#C3B5FB" font-size="15" font-weight="700" letter-spacing="2.4" font-family="Inter, Arial, sans-serif">FULL-STACK + AI ENGINEER</text>
+  <text x="60" y="128" fill="#F5F4FF" font-size="58" font-weight="730" letter-spacing="-2" font-family="Inter, Arial, sans-serif">Munazza Zahid</text>
+  <path d="M60 153H570" stroke="url(#line)" stroke-width="2"/>
+  <text x="60" y="215" fill="#F3F1FF" font-size="36" font-weight="600" letter-spacing="-1.1" font-family="Inter, Arial, sans-serif">I build products from idea</text>
+  <text x="60" y="261" fill="url(#accent)" font-size="36" font-weight="600" letter-spacing="-1.1" font-family="Inter, Arial, sans-serif">to production — then scale them.</text>
+  <text x="60" y="304" fill="#A9ADC5" font-size="17" font-weight="400" font-family="Inter, Arial, sans-serif">Product engineering   /   Applied AI   /   Distributed systems</text>
+
+  <path d="M60 358H1220" stroke="#AAA0DD" stroke-opacity=".22" stroke-width="1"/>
+  <g font-family="Inter, Arial, sans-serif">
+   <text x="60" y="405" fill="#F3F1FF" font-size="25" font-weight="700">6+ years</text>
+   <text x="60" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">PRODUCTION EXPERIENCE</text>
+   <path d="M302 379V439" stroke="#A69AC9" stroke-opacity=".2"/>
+   <text x="333" y="405" fill="#F3F1FF" font-size="25" font-weight="700">20K+ users</text>
+   <text x="333" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">PRODUCT REACH</text>
+   <path d="M598 379V439" stroke="#A69AC9" stroke-opacity=".2"/>
+   <text x="627" y="405" fill="#F3F1FF" font-size="25" font-weight="700">0 → 1</text>
+   <text x="627" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">PLATFORM BUILDS</text>
+   <path d="M840 379V439" stroke="#A69AC9" stroke-opacity=".2"/>
+   <text x="870" y="405" fill="#F3F1FF" font-size="25" font-weight="700">End-to-end</text>
+   <text x="870" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">ENGINEERING OWNERSHIP</text>
+  </g>
+  <rect x=".6" y=".6" width="1278.8" height="478.8" rx="23.4" fill="none" stroke="#A99ACE" stroke-opacity=".22" stroke-width="1.2"/>
+ </g>
+</svg>
