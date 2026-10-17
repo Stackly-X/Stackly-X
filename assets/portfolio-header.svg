@@ -66,8 +66,8 @@
 
   <path d="M60 358H1220" stroke="#AAA0DD" stroke-opacity=".22" stroke-width="1"/>
   <g font-family="Inter, Arial, sans-serif">
-   <text x="60" y="405" fill="#F3F1FF" font-size="25" font-weight="700">6+ years</text>
-   <text x="60" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">PRODUCTION EXPERIENCE</text>
+   <text x="60" y="405" fill="#F3F1FF" font-size="25" font-weight="700">Product-first</text>
+   <text x="60" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">ENGINEERING MINDSET</text>
    <path d="M302 379V439" stroke="#A69AC9" stroke-opacity=".2"/>
    <text x="333" y="405" fill="#F3F1FF" font-size="25" font-weight="700">20K+ users</text>
    <text x="333" y="432" fill="#8E92AE" font-size="12" font-weight="600" letter-spacing="1.5">PRODUCT REACH</text>
