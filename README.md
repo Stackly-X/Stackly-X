@@ -9,8 +9,6 @@
   <img src="./assets/portfolio-animated.gif" alt="Munazza Zahid — Animated AI pipeline and typing terminal. Full-stack and applied AI engineering." width="100%" />
 </p>
 
-<br />
-
 ### Engineering products that work beyond the demo.
 
 I'm a Full-stack and applied AI engineer. I partner with founders and teams to turn complex ideas into products people can actually use — from architecture and the first release to production reliability and growth.
@@ -68,4 +66,4 @@ I balance shipping speed with maintainability, security, reliability, and the ne
   <b>Have a product to build or improve?</b><br />
   <sub>Let's turn it into something people can rely on.</sub><br /><br />
 </p>
-<p align="center"><sub>Build for today. Design for what comes next.</sub></p>
+<p align="center">Build for today. Design for what comes next.</p>
