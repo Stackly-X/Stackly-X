@@ -10,7 +10,7 @@
 </p>
 
 ### Engineering products that work beyond the demo.
-I'm a software engineer working across full-stack development, applied AI, cloud infrastructure, and real-time systems. I design and build software end to end — from intuitive user experiences and reliable APIs to intelligent automation and scalable backend architectures.
+I'm a software engineer working across full-stack development, applied AI, cloud infrastructure, and real-time systems. I design and build software end to end, from intuitive user experiences and reliable APIs to intelligent automation and scalable backend architectures.
 
 My experience spans production **AI platforms, SaaS applications, interactive experiences, e-commerce systems, and distributed services**. I enjoy solving complex engineering challenges, making thoughtful architectural decisions, and turning ambitious ideas into products people can depend on.
 
