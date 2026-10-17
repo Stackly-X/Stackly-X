@@ -57,6 +57,8 @@ Built an agentic analysis workflow for assessing brand evidence and identifying 
 
 *These are some of the technologies I work with, not an exhaustive list. I choose tools based on the problem, architecture, and product requirements rather than limiting solutions to a particular stack.*
 
+---
+
 ### How I approach engineering
 
 **Understand & architect** → **Build & validate** → **Launch, improve & scale**
