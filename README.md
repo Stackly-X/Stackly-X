@@ -21,7 +21,7 @@
 
 ### Engineering products that work beyond the demo.
 
-I'm **Munazza Zahid**, a full-stack and applied AI engineer. I partner with founders and teams to turn complex ideas into products people can actually use — from architecture and the first release to production reliability and growth.
+I'm a Full-stack and applied AI engineer. I partner with founders and teams to turn complex ideas into products people can actually use — from architecture and the first release to production reliability and growth.
 
 My work spans **AI systems, SaaS platforms, real-time applications, and distributed backends**. I care about the decisions behind the code: what to build, what to simplify, and how to make it last.
 
