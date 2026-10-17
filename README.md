@@ -76,5 +76,4 @@ I balance shipping speed with maintainability, security, reliability, and the ne
   <b>Have a product to build or improve?</b><br />
   <sub>Let's turn it into something people can rely on.</sub><br /><br />
 </p>
-
 <p align="center"><sub>Build for today. Design for what comes next.</sub></p>
