@@ -46,12 +46,16 @@ Built an agentic analysis workflow for assessing brand evidence and identifying 
 
 ### What I build with
 
-| Focus | Tools & technologies |
+| **Focus** | **Tools & technologies** |
 | :--- | :--- |
-| **Interfaces & product** | TypeScript, React, Next.js, Tailwind CSS |
-| **APIs & systems** | Python, FastAPI, Node.js, PostgreSQL, Redis |
-| **Applied AI** | LLM APIs, RAG, Pinecone, LangGraph, Vertex AI |
-| **Infrastructure** | Docker, Google Cloud, CI/CD, Kafka |
+| **Frontend & product** | TypeScript, JavaScript, React, Next.js, Vue.js, Tailwind CSS |
+| **Backend & databases** | Python, FastAPI, Node.js, NestJS, PostgreSQL, MongoDB, Redis |
+| **AI & intelligent systems** | LLM APIs, RAG, LangGraph, Pinecone, Vertex AI, AI Agents |
+| **Real-time & interactive** | WebSockets, Socket.IO, WebRTC, Phaser.js |
+| **Cloud & infrastructure** | Docker, Google Cloud, AWS, GitHub Actions, CI/CD |
+| **Automation & integrations** | REST APIs, GraphQL, Workflow Automation, Third-Party Integrations |
+
+*These are some of the technologies I work with, not an exhaustive list. I choose tools based on the problem, architecture, and product requirements rather than limiting solutions to a particular stack.*
 
 ### How I approach engineering
 
