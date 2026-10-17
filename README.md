@@ -9,14 +9,6 @@
   <img src="./assets/portfolio-animated.gif" alt="Munazza Zahid — Animated AI pipeline and typing terminal. Full-stack and applied AI engineering." width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://portfolio-webdeveloper-website.vercel.app/">Portfolio ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://portfolio-webdeveloper-website.vercel.app/#projects">Selected work ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:munazzazahid5@gmail.com">Get in touch ↗</a>
-</p>
-
 <br />
 
 ### Engineering products that work beyond the demo.
