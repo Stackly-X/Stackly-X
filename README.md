@@ -53,8 +53,6 @@ Designed a commerce backend with **six independently defined services**, asynchr
 Built an agentic analysis workflow for assessing brand evidence and identifying gaps in AI-driven recommendations.  
 `LangGraph` `FastAPI` `Gemini` `PostgreSQL` · [Explore code ↗](https://github.com/mzbit8890/Answerlens)
 
-<p align="right"><a href="https://portfolio-webdeveloper-website.vercel.app/#projects">Explore more work on my portfolio ↗</a></p>
-
 ---
 
 ### What I build with
@@ -77,9 +75,6 @@ I balance shipping speed with maintainability, security, reliability, and the ne
 <p align="center">
   <b>Have a product to build or improve?</b><br />
   <sub>Let's turn it into something people can rely on.</sub><br /><br />
-  <a href="https://portfolio-webdeveloper-website.vercel.app/">Explore my portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:munazzazahid5@gmail.com">Start a conversation</a>
 </p>
 
 <p align="center"><sub>Build for today. Design for what comes next.</sub></p>
